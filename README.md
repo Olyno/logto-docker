@@ -6,6 +6,7 @@
 ## Environment variables
 
 ```
-USERNAME : Username for the admin account
-PASSWORD : Password for the admin account
+ENDPOINT       : Endpoint to your custom domain, if any
+ADMIN_ENDPOINT : Endpoint to the admin section for your custom domain, if any
+DB_URL_DEFAULT : Endpoint to your Postgres database. Necessary variable
 ```
